@@ -1,0 +1,25 @@
+.foto-perfil {
+    border-radius: 100%;
+    max-width: 200px;
+    max-height: 200px;
+    border: 2px solid darkgray;
+}
+b{
+    color: white;
+}
+body{
+    background-color:black;
+}
+
+h1{
+    color: darkgray;
+}
+h5{
+    color:white;
+}
+h3{
+    color: darkgray;
+}
+li{
+    color: white;
+}
